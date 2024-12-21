@@ -69,7 +69,7 @@ main{
         to right,
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.8)),
-        url("/img/game-img.jpg") ;
+        url("../img/game-img.jpg") ;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -100,7 +100,7 @@ main{
         to left,
         rgba(0, 0, 0, 0.5),
         rgba(0, 0, 0, 0.8)),
-        url('/img/gym.jpg');
+        url('../img/gym.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -135,7 +135,7 @@ main{
         to right,
          rgba(0,0,0,0.5),
          rgba(0, 0, 0, 0.8)),
-         url('/img/book.jpg')
+         url('../img/book.jpg')
     ;
     background-size: cover;
     background-position: center center;
