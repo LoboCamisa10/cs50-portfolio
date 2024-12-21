@@ -1,14 +1,15 @@
-# Meu Website Pessoal
 
-Bem-vindo ao repositório do meu website pessoal! 🚀  
+# My Personal Website
 
-Este projeto é uma vitrine do meu trabalho como designer e desenvolvedor web. O principal objetivo deste site é servir como um espaço para experimentar, melhorar minhas habilidades de design e compartilhar um pouco sobre mim.  
+Welcome to my personal website repository! 🚀
 
-⚠ **Nota:** Este site foi desenvolvido com foco exclusivo em navegadores para desktop, sem adaptação para dispositivos móveis.  
+This project is a showcase of my work as a web designer and developer. The main goal of this site is to serve as a space to experiment, improve my design skills, and share a little bit about myself.
 
-## Objetivos  
-- Explorar e refinar conceitos de design visual e experiência do usuário (UX).  
-- Experimentar diferentes estilos, layouts e interações.  
-- Criar uma identidade digital única que reflita meu estilo pessoal e profissional.  
+⚠ **Note:** This site was developed with an exclusive focus on desktop browsers, with no adaptation for mobile devices.
 
-Sinta-se à vontade para explorar o código e compartilhar sugestões!  
+## Objectives
+- Explore and refine visual design and user experience (UX) concepts.
+- Experiment with different styles, layouts, and interactions.
+- Create a unique digital identity that reflects my personal and professional style.
+
+Feel free to explore the code and share suggestions!
